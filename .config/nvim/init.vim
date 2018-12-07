@@ -1,3 +1,6 @@
+" This config was taken as is from an old personal vim config.
+" !!! Not every setting here might make sense for Neovim !!!
+"
 " disable screen switching
 " http://vimdoc.sourceforge.net/htmldoc/tips.html
 set t_ti= t_te=
