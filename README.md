@@ -1,2 +1,2 @@
 # dotfiles
-The few configurations files that I need
+The few configuration files that I need
