@@ -83,3 +83,5 @@ export LC_TIME=en_DK.UTF-8
 
 export EDITOR='vi'
 export PDSH_RCMD_TYPE='ssh'
+
+KSZUSER=lben
