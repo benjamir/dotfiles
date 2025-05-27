@@ -4,10 +4,10 @@
 " http://vimdoc.sourceforge.net/htmldoc/tips.html
 set t_ti= t_te=
 set t_Co=256
-" least annoying as a default in most cases
+" least annoying as a default
 colorscheme murphy
 set number
 syntax on
-" Make all whitespace visible
+" visible whitespace
 set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
 set list
